@@ -3,7 +3,7 @@
 
 <img src="/src/banner.png"/>
 
-**방산분야 특허 검색 및 대응 관리를 위한 지능형 플랫폼 개발**
+**오픈소스 빅데이터 상에 노출된 군사정보 탐지 인공지능**  
 
 "Development of an Intelligent Platform for Defense Patent Search and Response Management"
 
