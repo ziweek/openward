@@ -8,7 +8,8 @@
 "Development of an Intelligent Platform for Defense Patent Search and Response Management"
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Kakao%20Brain-KoGPT-FEE500?style=flat-square"/>
+  <img src="https://img.shields.io/badge/ultralytics-YOLOv8-FEE500?style=flat-square"/>
+  <img src="https://img.shields.io/badge/openai-whisper-FEE500?style=flat-square"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
   <br/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
